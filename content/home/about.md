@@ -5,16 +5,11 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Management Accounting",
-    "Business Analytics,
-    "Performances measurement"
-    "Stochastich Frontier Analysis"
-  ]
+  interests = ["Management Accounting","Business Analytics,"Performances measurement"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -36,5 +31,5 @@ weight = 5
 
 # Biography
 
-Luca Elisei is a Ph.D. in Business Economics at the Perugia University. His research interests include Management Control and Accounting Systems, business intelligence and analytics, efficiency measurement (DEA and stocastich frontier analysis). 
+aaa a aaa a aLuca Elisei is a Ph.D. in Business Economics at the Perugia University. His research interests include Management Control and Accounting Systems, business intelligence and analytics, efficiency measurement (DEA and stocastich frontier analysis). 
 

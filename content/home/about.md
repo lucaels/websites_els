@@ -1,15 +1,23 @@
 +++
 # About/Biography widget.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
 widget = "about"
-active = true
-date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 1
 
 # List your academic interests.
 [interests]
-  interests = ["Management Accounting","Business Analytics,"Performances measurement"]
+  interests = [
+    "Business Analytics",
+    "R",
+    "Statistics",
+    "Management Acounting",
+    "Stochastic Frontier Analysis"
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -23,13 +31,15 @@ weight = 1
   year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Applied Psychology"
+  institution = "Georgia Institute of Technology"
+  year = 2002
  
 +++
 
-# Biography
+# About me
 
-aaa a aaa a aLuca Elisei is a Ph.D. in Business Economics at the Perugia University. His research interests include Management Control and Accounting Systems, business intelligence and analytics, efficiency measurement (DEA and stocastich frontier analysis). 
+Luca Elisei is a Ph.D. in Business Economics at the Perugia University. His research interests include Management Control and Accounting Systems, business intelligence and analytics, efficiency measurement (DEA and stocastich frontier analysis). 
+
+
 

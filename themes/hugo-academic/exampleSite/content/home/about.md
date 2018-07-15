@@ -31,5 +31,7 @@ weight = 1
 
 # Biography
 
-Luca Elisei is a Ph.D. in Business Economics at the Perugia University. His research interests include Management Control and Accounting Systems, business intelligence and analytics, efficiency measurement (DEA and stocastich frontier analysis). 
+I am an Ph.D. in Economics of Pediatrics at <a href = "https://www.ohsu.edu">Oregon Health & Science University (OHSU)</a> in Portland, Oregon, and the Assistant Director of OHSU's <a href = "https://www.ohsu.edu/xd/research/centers-institutes/center-for-spoken-language-understanding/" target = "_blank">Center for Spoken Language Understanding</a>, home to the Computer Science graduate education program. I study health-related applications of Natural Language Processing-based methods, with a focus on pediatric populations with developmental disabilities like Autism Spectrum Disorders, which I've studied for the past 15 years.
+
+In addition to research, I teach graduate-level data science courses and lead workshops on statistics, data analysis, and data visualization using the statistical programming language R. I am also a co-author of the book [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/), and I am the author of the DataCamp.com course [*Working with Data in the Tidyverse*](https://www.datacamp.com/courses/working-with-data-in-the-tidyverse). 
 

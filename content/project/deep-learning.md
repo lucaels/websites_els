@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = "2017-04-11"
 
 # Project title.
-title = "Deep Learning"
+title = "Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Improving conversational use of spoken language is an important goal for many new interventions and treatments for children with neurodevelopmental disorders. However, progress in testing these treatments is limited by the lack of informative outcome measures to indicate whether or not an intervention or treatment is having the desired effect on a child's conversational use of language (i.e., discourse skills). The goal of this project is to evaluate whether Natural Language Processing methods can be translated into meaningful outcome measure for individuals with a range of neurodevelopmental disorders. This project was recently funded by the National Institute of Deafness and Other Communication Disorders."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["natural-language-processing", "autism", "outcomes"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,17 +23,18 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Improving spoken language use (i.e., discourse skills) is a common treatment goal for children with neurodevelopmental disorders, particularly for those with difficulties in conversational reciprocity, perseverative speech, or idiosyncratic/stereotyped word use. These features are clinically meaningful, and in previous projects, we have successfully applied Natural Language Processing (NLP) methods to measure these discourse skills using natural language samples from children with Autism Spectrum Disorder (ASD). However, while NLP methods yield diagnostically relevant measures, it is not known if they can be translated into meaningful outcome measures. To take this next step, important questions must be addressed: 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+* How stable and responsive are NLP discourse measures over time? 
+* How consistent are the measures across different measurement contexts and lengths? 
+* What is their validity? 
+* To what degree are measures impacted by general language or intellectual abilities? 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Lack of knowledge about these psychometric properties of NLP discourse measures is a problem because, without it, the likelihood that children’s use of spoken language can be targeted and impacted in large-scale clinical trials is remote.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The long-term goal of this project is to harness the benefits of NLP to impact functional spoken language outcomes for children with neurodevelopmental disorders. The parent project (R01DC012033: “Computational Characterization of Language Use in Autism Spectrum Disorder”) took the first steps towards this goal by developing NLP algorithms to measure discourse skills based on raw (i.e., not coded or annotated) transcripts. Our strong results indicate difficulties in conversational reciprocity as well as elevated repetitive language behaviors among children with ASD compared to children without ASD, and were not due to differences in age, IQ, or language abilities. Our objective in this project is to take the next step to evaluate the suitability of these NLP automated discourse measures (ADMs) as outcomes for individuals with a range of intellectual abilities and diagnoses. Our approach will focus on optimizing stability of such measures, and assessing responsiveness to change over time, consistency across sampling contexts and sample lengths, and validity.

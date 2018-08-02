@@ -1,15 +1,15 @@
 +++
-abstract = "In this chapter, we review existing prevalence estimates for ASDs since 2000 and discuss methodological factors impacting the estimation of prevalence and the interpretation of changes in prevalence estimates over time. Possible explanations for an increase in the prevalence of ASD within and across populations are considered. Increases in ASD diagnostic rates cannot currently be attributed to a true increase in the incidence of ASD due to multiple confounding factors. It remains to be seen how changes to diagnostic criteria introduced in the DSM-5 will impact estimates of ASD prevalence going forward."
+abstract = "Although recent years have witnessed a growing interest in studying broader management control system configurations, it has been difficult to assess the outcomes of various control choices. Using firm overall financial performance as an indicator of control configuration effectiveness is questionable as there are many other factors in addition to MCS configuration that has an impact of firm financials. Assessing quality of MCS against control problems those systems are to deal with is equally difficult in large empirical studies. This study contributes to this discussion by showing how stochastic frontier method can be applied to empirically assess the performance effects of archetypal control configurations. The research focus on a single industry, mechanical engineering, in one country, where we collect data from a cross-sectional sample of 242 medium sized firms. We identify control configurations in use, assess their efficiency and address the interplay of formal and informal controls After controlling for heterogeneity of firms as well as number of contextual factors, firms in the decentralized control mode appear more efficient than firms relying on centralized control. Based on our empirical analysis we develop a theory of efficient management control configurations for medium sized mechanical engineering firms. Implications of findings for both research and practice are discussed."
 
-authors = ["Alison Presmanes Hill", "Katharine Zuckerman", "Eric Fombonne"]
-date = "2016-02-19"
+authors = ["Luca Elisei", "Teemu Malmi", "Fabio Santini"]
+date = "2018-08-18"
 image_preview = ""
 math = true
 publication_types = ["6"]
-publication = "In *Primer on Autism Spectrum Disorder*"
+publication = "In *Management Accounting Research*"
 publication_short = ""
 selected = false
-title = "Epidemiology of autism spectrum disorders"
+title = "MCS Configurations and Efficiency in Mechanical Engineering Firms: An empirical evidence based on stochastic frontier analysis"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/2016-primer-chapter-text.pdf"

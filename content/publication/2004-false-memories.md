@@ -1,15 +1,15 @@
 +++
-abstract = "We examined the effect of item-specific and relational encoding instructions on false recognition in two experiments in which the DRM paradigm was used (Deese, 1959; Roediger & McDermott, 1995). Type of encoding (item-specific or relational) was manipulated between subjects in Experiment 1 and within subjects in Experiment 2. Decision-based explanations (e.g., the distinctiveness heuristic) predict reductions in false recognition in between-subjects designs, but not in within-subjects designs, because they are conceptualized as global shifts in decision criteria. Memory-based explanations predict reductions in false recognition in both designs, resulting from enhanced recollection of item-specific details. False recognition was reduced following item-specific encoding instructions in both experiments, favoring a memory-based explanation. These results suggest that providing unique cues for the retrieval of individual studied items results in enhanced discrimination between those studied items and critical lures. Conversely, enhancing the similarity of studied items results in poor discrimination among items within a particular list theme. These results are discussed in terms of the item-specific/relational framework (Hunt & McDaniel, 1993)."
+abstract = "Although recent years have witnessed a growing interest in studying broader management control system configurations, it has been difficult to assess the outcomes of various control choices. Using firm overall financial performance as an indicator of control configuration effectiveness is questionable as there are many other factors in addition to MCS configuration that has an impact of firm financials. Assessing quality of MCS against control problems those systems are to deal with is equally difficult in large empirical studies. This study contributes to this discussion by showing how stochastic frontier method can be applied to empirically assess the performance effects of archetypal control configurations. The research focus on a single industry, mechanical engineering, in one country, where we collect data from a cross-sectional sample of 242 medium sized firms. We identify control configurations in use, assess their efficiency and address the interplay of formal and informal controls After controlling for heterogeneity of firms as well as number of contextual factors, firms in the decentralized control mode appear more efficient than firms relying on centralized control. Based on our empirical analysis we develop a theory of efficient management control configurations for medium sized mechanical engineering firms. Implications of findings for both research and practice are discussed."
 
-authors = ["David P. McCabe", "Alison G. Presmanes [Hill]", "Chuck L. Robertson", "Anderson D. Smith"]
+authors = ["L. Elisei", "T. Malmi", "F. Santini"]
 date = "2004-12-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Psychonomic Bulletin & Review*"
+publication = "In *Management Accounting Review*"
 publication_short = "PB&R"
 selected = false
-title = "Item-specific Processing Reduces False Memories"
+title = "MCS Configurations and Efficiency in Mechanical Engineering Firms: An empirical evidence based on stochastic frontier analysis"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/2004-false-memories.pdf"

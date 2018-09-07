@@ -18,8 +18,8 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "Buy on Amazon"
-url = "https://www.amazon.com/Translational-Approaches-Autism-Spectrum-Disorder/dp/3319163205"
+name = ""
+url = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

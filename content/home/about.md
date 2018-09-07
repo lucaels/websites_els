@@ -31,9 +31,9 @@ weight = 1
   year = 2013
 
 [[education.courses]]
-  course = "BSc in Applied Psychology"
-  institution = "Georgia Institute of Technology"
-  year = 2002
+  course = "BSc in Business and Management"
+  institution = "Perugia University"
+  year = 2010
  
 +++
 

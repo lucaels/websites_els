@@ -15,20 +15,20 @@ weight = 60
 
 +++
 
-Teaching
+`Teaching`
 
 - Performances Measurement, Management Accounting–professional course, TUCEP | Assisi (Perugia), Italy, 2014
 - Teaching Assistant and Tutor of Management Accounting, Bachelor Degree | Department of Economics, University of Perugia (2014–Current)
 
-Member of the Examining Board
+`Member of the Examining Board`
 
 - Management Accounting, Bachelor Degree | Department of Economics, University of Perugia (2014–Current)
 
-Workshop - presentations
+`Workshop - presentations`
 
 - SIDREA, International Workshop (SIW): Management Control and Strategy. Theory and Empirical Evidence, Perugia, Italy, 2015
 - EIASM, 9th Conference on Performance Measurement and Management Control, Nice, France, 2017
 
-Visiting P.h.D
+`Visiting P.h.D`
 
 - Helsinki, Finland, 2016: 6 month Visiting at Department of Business Economics

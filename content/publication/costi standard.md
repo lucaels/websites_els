@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/paper_2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

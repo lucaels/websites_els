@@ -34,7 +34,7 @@ weight = 1
   course = "BSc in Business and Management"
   institution = "Perugia University"
   year = 2010
- 
+  
 +++
 
 # About me

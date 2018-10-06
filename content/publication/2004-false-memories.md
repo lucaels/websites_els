@@ -12,14 +12,14 @@ selected = false
 title = "MCS Configurations and Efficiency in Mechanical Engineering Firms: An empirical evidence based on stochastic frontier analysis"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2004-false-memories.pdf"
+#url_pdf = "pdf/2004-false-memories.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "View Journal Article"
-url = "http://link.springer.com/article/10.3758/BF03196739"
+#[[url_custom]]
+#name = "View Journal Article"
+#url = "http://link.springer.com/article/10.3758/BF03196739"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

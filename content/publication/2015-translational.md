@@ -6,20 +6,20 @@ date = "2018-06-18"
 image_preview = ""
 math = true
 publication_types = ["6"]
-publication = "In *European Accounting Research*"
+publication = "In *Working paper*"
 publication_short = ""
 selected = false
 title = "Management-control-system configurations in medium-sized machine-engineering firms: An exploratory analysis"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2015-translational-chapter-text.pdf"
+#url_pdf = "pdf/2015-translational-chapter-text.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = ""
-url = ""
+#[[url_custom]]
+#name = ""
+#url = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

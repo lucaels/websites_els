@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/paper_2.pdf"
+#url_pdf = "pdf/DN0p0U-WP_21_2015_Elisei_Santini.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,6 +48,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+
+[[url_custom]]
+name = "View Journal Article"
+url = "https://ideas.repec.org/p/pia/wpaper/00021-2015.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

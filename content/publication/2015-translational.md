@@ -26,4 +26,6 @@ url_video = ""
 image = ""
 caption = ""
 
+tags = ["management control", "accounting", "configurations"]
+
 +++

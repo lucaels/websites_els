@@ -254,7 +254,12 @@ enableGitInfo = false
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
-
+  
+[[params.social]]
+icon = "cv"
+icon_pack = "ai"
+link = "files/CV.pdf"
+# or insert in about--> {{% staticref "files/CV.pdf" %}}Download my CV{{% /staticref %}}
 [[menu.main]]
   name = "Home"
   url = "#about"

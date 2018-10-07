@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.43" />
+  <meta name="author" content="Luca Elisei">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Improving spoken language use (i.e., discourse skills) is a common treatment goal for children with neurodevelopmental disorders, particularly for those with difficulties in conversational reciprocity, perseverative speech, or idiosyncratic/stereotyped word use. These features are clinically meaningful, and in previous projects, we have successfully applied Natural Language Processing (NLP) methods to measure these discourse skills using natural language samples from children with Autism Spectrum Disorder (ASD). However, while NLP methods yield diagnostically relevant measures, it is not known if they can be translated into meaningful outcome measures.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/project/deep-learning/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Luca Elisei">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Luca Elisei">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/project/deep-learning/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Luca Elisei">
+  <meta property="og:url" content="/project/deep-learning/">
+  <meta property="og:title" content="Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01 | Luca Elisei">
+  <meta property="og:description" content="Improving spoken language use (i.e., discourse skills) is a common treatment goal for children with neurodevelopmental disorders, particularly for those with difficulties in conversational reciprocity, perseverative speech, or idiosyncratic/stereotyped word use. These features are clinically meaningful, and in previous projects, we have successfully applied Natural Language Processing (NLP) methods to measure these discourse skills using natural language samples from children with Autism Spectrum Disorder (ASD). However, while NLP methods yield diagnostically relevant measures, it is not known if they can be translated into meaningful outcome measures.">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2017-04-11T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2017-04-11T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01 | Luca Elisei</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Luca Elisei</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01</h1>
+
+    
+
+<div class="article-metadata">
+
+  
+
+  <span class="article-date">
+    
+    <meta content="2017-04-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2017-04-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Apr 11, 2017
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Luca Elisei">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Automated%20Measurement%20of%20Language%20Outcomes%20for%20Neurodevelopmental%20Disorders%20-%20NIDCD%20R01&amp;url=%2fproject%2fdeep-learning%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fproject%2fdeep-learning%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fdeep-learning%2f&amp;title=Automated%20Measurement%20of%20Language%20Outcomes%20for%20Neurodevelopmental%20Disorders%20-%20NIDCD%20R01"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fproject%2fdeep-learning%2f&amp;title=Automated%20Measurement%20of%20Language%20Outcomes%20for%20Neurodevelopmental%20Disorders%20-%20NIDCD%20R01"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Automated%20Measurement%20of%20Language%20Outcomes%20for%20Neurodevelopmental%20Disorders%20-%20NIDCD%20R01&amp;body=%2fproject%2fdeep-learning%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Improving spoken language use (i.e., discourse skills) is a common treatment goal for children with neurodevelopmental disorders, particularly for those with difficulties in conversational reciprocity, perseverative speech, or idiosyncratic/stereotyped word use. These features are clinically meaningful, and in previous projects, we have successfully applied Natural Language Processing (NLP) methods to measure these discourse skills using natural language samples from children with Autism Spectrum Disorder (ASD). However, while NLP methods yield diagnostically relevant measures, it is not known if they can be translated into meaningful outcome measures. To take this next step, important questions must be addressed:</p>
+
+<ul>
+<li>How stable and responsive are NLP discourse measures over time?</li>
+<li>How consistent are the measures across different measurement contexts and lengths?</li>
+<li>What is their validity?</li>
+<li>To what degree are measures impacted by general language or intellectual abilities?</li>
+</ul>
+
+<p>Lack of knowledge about these psychometric properties of NLP discourse measures is a problem because, without it, the likelihood that children’s use of spoken language can be targeted and impacted in large-scale clinical trials is remote.</p>
+
+<p>The long-term goal of this project is to harness the benefits of NLP to impact functional spoken language outcomes for children with neurodevelopmental disorders. The parent project (R01DC012033: “Computational Characterization of Language Use in Autism Spectrum Disorder”) took the first steps towards this goal by developing NLP algorithms to measure discourse skills based on raw (i.e., not coded or annotated) transcripts. Our strong results indicate difficulties in conversational reciprocity as well as elevated repetitive language behaviors among children with ASD compared to children without ASD, and were not due to differences in age, IQ, or language abilities. Our objective in this project is to take the next step to evaluate the suitability of these NLP automated discourse measures (ADMs) as outcomes for individuals with a range of intellectual abilities and diagnoses. Our approach will focus on optimizing stability of such measures, and assessing responsiveness to change over time, consistency across sampling contexts and sample lengths, and validity.</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="label label-default" href="/tags/natural-language-processing/">natural-language-processing</a>
+  
+  <a class="label label-default" href="/tags/autism/">autism</a>
+  
+  <a class="label label-default" href="/tags/outcomes/">outcomes</a>
+  
+</div>
+
+
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="/project/example-external-project/">Multi-modal Autism Phenotype Snapshot (MAPS): Automated measurement of outcomes for children with autism</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+
+    
+    <p class="powered-by">
+      <a href="/privacy/">Privacy Policy</a>
+    </p>
+    
+
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+

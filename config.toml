@@ -282,7 +282,7 @@ enableGitInfo = false
   #weight = 3
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Academic activities"
   url = "#teaching"
   weight = 3
 

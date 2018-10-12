@@ -24,10 +24,12 @@ weight = 60
 
 - Management Accounting, Bachelor Degree | Department of Economics, University of Perugia (2014–Current)
 
-`Workshop - presentations`
+`Conferences and workshops`
 
-- SIDREA, International Workshop (SIW): Management Control and Strategy. Theory and Empirical Evidence, Perugia, Italy, 2015
-- EIASM, 9th Conference on Performance Measurement and Management Control, Nice, France, 2017
+- SIDREA, International Workshop (SIW): Management Control and Strategy. Theory and Empirical Evidence, Perugia, Italy, 2015 (Discussant)
+- EIASM, 9th Conference on Performance Measurement and Management Control, Nice, France, 2017 (Discussant)
+- EIASM, 1st Conference on Management Accounting and Control in SMEs, Assisi, Italy, 2019 (organising committee member)
+
 
 `Visiting P.h.D`
 

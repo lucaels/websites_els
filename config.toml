@@ -13,7 +13,7 @@ title = "Luca Elisei"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018  Luca Elisei "
 
 theme = "hugo-academic"
 enableEmoji = true

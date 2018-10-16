@@ -1,8 +1,8 @@
 # Font style metadata
-name = "Classic"
+name = "faira"
 
 # Optional Google font URL
-google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans"
+google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet"
 
 
 

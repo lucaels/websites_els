@@ -19,7 +19,7 @@ authors = ["L. Elisei"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication = "In *working paper*. 
 publication_short = "In *Working paper*"
 
 # Abstract and optional shortened version.

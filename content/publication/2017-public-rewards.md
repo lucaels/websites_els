@@ -1,11 +1,11 @@
 +++
-abstract = ""
+abstract = "abdhgudsdbhc"
 
 authors = ["L.Ferrucci", "M.Gigliotti", "C.Chionne", "A.Cutini", "L.Elisei", "K.Lavoratori", "D.Natalizi", "M.Soscia"]
 date = "2016-03-15"
 image_preview = ""
 math = true
-publication_types = ["6"]
+publication_types = ["2"]
 publication = "In *Azienda Pubblica*"
 publication_short = ""
 selected = false

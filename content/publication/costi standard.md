@@ -19,8 +19,8 @@ authors = ["F.Santini", "L. Elisei"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Azienda Pubblica*
-publication_short = "In *Working paper*"
+publication = "In *Azienda Pubblica*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "La legge delega 42 del 2009 ha introdotto nell’ordinamento italiano i costi ed i fabbisogni standard inquadrandoli come strumenti utili ad incentivare l’efficienza amministrativa degli Enti locali e l’equità tra territori connotato da capacità fiscali diverse. Tali strumenti, che avrebbero dovuto indirizzare la ripartizione del fondo di perequazione non sono mai del tutto decollati ed il vecchio criterio della spesa storica continua ad essere preponderante. Il presente lavoro muove numerose critiche al modello di perequazione tracciato dalla legge delega offrendo riflessioni sull’opportunità di utilizzare un approccio diverso, maggiormente orientato a cogliere il processo di aziendalizzazione della pubblica amministrazione ed a rispettare le specificità territoriali che connotano il nostro Paese."

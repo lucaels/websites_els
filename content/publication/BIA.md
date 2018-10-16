@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *working paper*. 
-publication_short = "In *Working paper*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Business Intelligence and analytics (BI) have a wide interest in engineering and statistical field, but now it is growing in accounting too . Although evident that BI systems support management control systems (Chapman and Kihn, 2009; Elbashir et al., 2011, 2013; Lee and Widener, 2015), no empirical studies have addressed the relationship between business intelligence and management control. Previous research in the accounting field remains very limited, focusing on the performance effects of BI by data quality, organisation learning or level of absorptive capacity. There is less known about how organisations use the information in BI, how it interplays with other control systems, and which contingency factors can predict its use. This study contributes by filling in the gap in literature between BI and MCS, also investigating the performance effect. The research focuses on a manufacturing industry, in one country, whit a cross-sectional of 311 firms. The study explores how accounting and other forms of control can predict the use of BI, and the associations with firms context. Measurement, organisation structure, and environment are able to predict the use of BI systems. Also, implications of performance effect’s findings for research and practice are discussed."

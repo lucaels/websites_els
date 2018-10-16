@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title ="Esiste un alternativa all'attuale modello dei costi standard nel settore publico? Alcune riflessioni in ottica Aziendalistica"
 
 # Date first published.
-date = "2013-07-01"
+date = "2015-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["F.Santini", "L. Elisei"]
 
 # Publication type.
 # Legend:
@@ -16,21 +16,21 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Azienda Pubblica*"
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract = "La legge delega 42 del 2009 ha introdotto nell’ordinamento italiano i costi ed i fabbisogni standard inquadrandoli come strumenti utili ad incentivare l’efficienza amministrativa degli Enti locali e l’equità tra territori connotato da capacità fiscali diverse. Tali strumenti, che avrebbero dovuto indirizzare la ripartizione del fondo di perequazione non sono mai del tutto decollati ed il vecchio criterio della spesa storica continua ad essere preponderante. Il presente lavoro muove numerose critiche al modello di perequazione tracciato dalla legge delega offrendo riflessioni sull’opportunità di utilizzare un approccio diverso, maggiormente orientato a cogliere il processo di aziendalizzazione della pubblica amministrazione ed a rispettare le specificità territoriali che connotano il nostro Paese."
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+#url_pdf = "pdf/DN0p0U-WP_21_2015_Elisei_Santini.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,6 +48,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+
+[[url_custom]]
+name = "View Journal Article"
+url = "https://ideas.repec.org/p/pia/wpaper/00021-2015.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -62,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+#image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++

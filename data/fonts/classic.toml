@@ -2,7 +2,7 @@
 name = "Classic"
 
 # Optional Google font URL
-google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans", rel="stylesheet"
+google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans"
 
 # Font families
 heading_font = "Lato"

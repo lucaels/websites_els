@@ -6,7 +6,7 @@ google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans" rel="styleshe
 
 # Font families
 heading_font = "Lato"
-body_font = "Fira Sans", sans-serif;
+body_font = "Fira Sans"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
 

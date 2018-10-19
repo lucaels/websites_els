@@ -2,11 +2,11 @@
 name = "Classic"
 
 # Optional Google font URL
-google_fonts = "fonts.googleapis.com/css?family=Fira+Sans"
+google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet"
 
 # Font families
 heading_font = "Lato"
-body_font = "Fira Sans"
+body_font = "Fira Sans", sans-serif;
 nav_font = "Lato"
 mono_font = "Roboto Mono"
 

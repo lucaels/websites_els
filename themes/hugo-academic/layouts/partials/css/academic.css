@@ -357,7 +357,7 @@ a[data-fancybox] img {
     padding: 60px 0 60px 0;
   }
   .home-section:first-of-type {
-    padding-top: 40px;
+    padding-top: 24px;
   }
 }
 
@@ -366,8 +366,8 @@ a[data-fancybox] img {
 }
 
 .section-heading p {
-  font-weight: 300;
-  font-size: 1rem;
+  font-weight: 400;
+  font-size: 1.1rem;
   color: #b2b2b2;
 }
 

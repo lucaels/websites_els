@@ -5,9 +5,9 @@ name = "Classic"
 google_fonts = "https://fonts.googleapis.com/css?family=Fira+Sans"
 
 # Font families
-heading_font = "Lato"
+heading_font = "Fira Sans"
 body_font = "Fira Sans"
-nav_font = "Lato"
+nav_font = "Fira Sans"
 mono_font = "Roboto Mono"
 
 # Font size

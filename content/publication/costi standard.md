@@ -19,7 +19,7 @@ authors = ["F.Santini", "L. Elisei"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Azienda Pubblica*"
+publication = "In *Quaderni del Dipartimento di Economia, Finanza e Statistica 21/2015*, Università di Perugia, Dipartimento Economia"
 publication_short = ""
 
 # Abstract and optional shortened version.

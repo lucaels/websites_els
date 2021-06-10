@@ -1,0 +1,16 @@
+[config.toml] --> file principale di gestione del sito
+
+[foto sito] -->  # Specify an avatar image (in `static/img/` folder)
+
+[CV.PDF] -->  link = "files/CV.pdf" | (in `static/img/` folder)
+
+[sezioni] --> per eliminare o aggiungere una sezione: website_blogdown > content > home --> modificare > active = false/true
+
+
+# per modificare copyright 
+—> themes—hugo-academic—layouts—partials—footer_containes.html
+—> themes—hugo-academic—public—index.html
+
+# per modificare il font
+—> themes—hugo-academic—layouts—partials—academic.css [modificare i parametri alla riga 94 in poi. h1, h2, ..]
+

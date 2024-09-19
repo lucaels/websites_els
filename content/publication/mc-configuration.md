@@ -1,5 +1,5 @@
 +++
-abstract = "Interest has grown in how management controls operate together as a package of interrelated mechanisms. This study aims to contribute to the topic by focusing on a single industry in one country, addressing controls in medium-sized enterprises (MEs). It explores how accounting and other forms of control commonly combine and the associations these combinations have with firm characteristics and context."
+abstract = "Interest has grown in how management controls operate together as a package of interrelated mechanisms. This study aims to contribute to the topic by focusing on a single industry in one country, addressing controls in medium-sized enterprises (MEs). It explores how accounting and other forms of control commonly combine and the associations these combinations have with firm characteristics and context"
 
 authors = ["F. Santini","L. Elisei", "T. Malmi","L. Elisei", "L. Scrucca"]
 date = "2022"

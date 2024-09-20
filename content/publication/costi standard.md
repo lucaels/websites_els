@@ -1,5 +1,5 @@
 +++
-title ="Esiste un alternativa all'attuale modello dei costi standard nel settore publico? Alcune riflessioni in ottica Aziendalistica"
+title ="(prova)Esiste un alternativa all'attuale modello dei costi standard nel settore publico? Alcune riflessioni in ottica Aziendalistica"
 
 # Date first published.
 date = "2015-12-01"

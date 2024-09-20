@@ -6,11 +6,11 @@ date = "2018-06-18"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "*Submitted to European accounting Review*"
+publication = "*Accounting Research Journal, 2023, DOI:10.1108/ARJ-06-2021-01682.*"
 publication_short = ""
 selected = false
 title = "Management-control-system configurations in medium-sized machine-engineering firms: An exploratory analysis"
-url_code = ""
+url_code = "https://www.emerald.com/insight/content/doi/10.1108/arj-06-2021-0168/full/html"
 url_dataset = ""
 #url_pdf = "pdf/2015-translational-chapter-text.pdf"
 url_project = ""
@@ -26,6 +26,6 @@ url_video = ""
 image = ""
 caption = ""
 
-tags = ["management control", "accounting", "configurations"]
+tags = ["management control", "statistics", "unsupervised analysis"]
 
 +++

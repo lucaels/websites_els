@@ -40,7 +40,7 @@ weight = 1
 
 # Biography
 
-Luca Elisei is a *Ph.D. in Business Economics* at the Perugia University. His research interests include Management Control and Accounting Systems, Business Intelligence and Analytics, Efficiency Measurement (DEA and Stocastich Frontier Analysis). 
+Luca Elisei is a *Ph.D. in Econometrics* at the Perugia University. His research interests include Business Intelligence and Analytics, Machine learning & Data Mining, Efficiency Measurement (DEA and Stocastich Frontier Analysis). 
 
 
 
